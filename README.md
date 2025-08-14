@@ -2,7 +2,7 @@
 Authors: Travis Leadbetter, Prashant K. Purohit, Celia Reina 
 Published in JMPS 2025
 
-This repository contains the source code and raw data generated from simulations and used to produce the figures in the manuscript referenced above. If you encounter any problems with the code or data, please feel free to contact the first author at tleadbe1@sas.upenn.edu. 
+This repository contains the source code and raw data generated from simulations and used to produce the figures in the manuscript referenced above. If you encounter any problems with the code or data, please feel free to contact the first author at tjleadbetter04@gmail.com. 
 
 #### File dependencies and structure. 
 Source code is written in Python 3 using Jupyter Notebook (.ipynb). All code should run with just numpy, scipy, matplotlib, and [jax](https://docs.jax.dev/en/latest/quickstart.html). 
